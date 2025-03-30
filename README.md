@@ -1,7 +1,3 @@
-Sure! Here's an updated, beginner-friendly version of the README with added design features and emojis to make it more engaging.
-
----
-
 # **filenfile** 🗄️🔒
 
 ## 🚀 Overview
